@@ -1,0 +1,33 @@
+{
+  "lastModified": "2015-07-23T21:07:50.514Z",
+  "target": {
+    "clientCode": "mactargetqa1",
+    "timeout": 5
+  },
+  "audienceManager": {
+    "server": ""
+  },
+  "acquisition": {
+    "server": "c00.adobe.com",
+    "appid": "79c0c0b93897f3b8727c3aa5b0321b2ad15d9ff6047d554c5065982ac9ce34e4"
+  },
+  "analytics": {
+    "rsids": "toa.demo",
+    "server": "adobetargetqeus.sc.omtrdc.net",
+    "ssl": false,
+    "offlineEnabled": false,
+    "charset": "UTF-8",
+    "lifecycleTimeout": 300,
+    "privacyDefault": "optedin",
+    "batchLimit": 0,
+    "timezone": "GMT",
+    "timezoneOffset": 0,
+    "referrerTimeout": 0,
+    "poi": []
+  },
+  "messages": [],
+  "remotes": {
+    "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-55ae9b2d33376500170002fe.json",
+    "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-55ae9b2b333765001400053b.json"
+  }
+}
