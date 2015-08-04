@@ -10,6 +10,8 @@
 	<string>DailyDeals</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>135CF338A59544CCCB1EF74891DCD6BD66FAEEF5</key>
+		<string>https://github.com/malna1r/deals-ios4.git</string>
 		<key>78DC02222D113CAF5158BF9BA9077EF9C183C1B8</key>
 		<string>https://github.com/malna1r/deals-ios3.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>DailyDeals.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>78DC02222D113CAF5158BF9BA9077EF9C183C1B8</key>
+		<key>135CF338A59544CCCB1EF74891DCD6BD66FAEEF5</key>
 		<string>../..</string>
+		<key>78DC02222D113CAF5158BF9BA9077EF9C183C1B8</key>
+		<string>../../../deals-ios3</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/malna1r/deals-ios3.git</string>
+	<string>https://github.com/malna1r/deals-ios4.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>78DC02222D113CAF5158BF9BA9077EF9C183C1B8</string>
+	<string>135CF338A59544CCCB1EF74891DCD6BD66FAEEF5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>78DC02222D113CAF5158BF9BA9077EF9C183C1B8</string>
 			<key>IDESourceControlWCCName</key>
 			<string>deals-ios3</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>135CF338A59544CCCB1EF74891DCD6BD66FAEEF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>deals-ios5</string>
 		</dict>
 	</array>
 </dict>
